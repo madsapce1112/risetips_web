@@ -1,0 +1,28 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Decentraland (MANA)">
+<circle id="Decentraland (MANA)_2" cx="24" cy="24" r="24" fill="url(#paint0_linear_562_771)"/>
+<path id="Decentraland (MANA)_3" d="M17.0039 15.6V33.6H32.0039L17.0039 15.6Z" fill="url(#paint1_linear_562_771)"/>
+<path id="Decentraland (MANA)_4" d="M2.00391 33.6H17.0039V15.6L2.00391 33.6Z" fill="white"/>
+<path id="Decentraland (MANA)_5" d="M4.7998 38.4C6.1678 40.212 7.7878 41.832 9.5998 43.2H38.3998C40.2118 41.832 41.8318 40.212 43.1998 38.4H4.7998Z" fill="#FC9965"/>
+<path id="Decentraland (MANA)_6" d="M9.6001 43.2C13.6081 46.212 18.6001 48 24.0001 48C29.4001 48 34.3921 46.212 38.4001 43.2H9.6001Z" fill="#FF2D55"/>
+<path id="Decentraland (MANA)_7" d="M32.1958 25.2V38.4H43.1998L32.1958 25.2Z" fill="url(#paint2_linear_562_771)"/>
+<path id="Decentraland (MANA)_8" d="M32.1959 33.6H2.00391C2.74791 35.316 3.69591 36.924 4.79991 38.4H32.2079V33.6H32.1959Z" fill="#FFBC5B"/>
+<path id="Decentraland (MANA)_9" d="M21.2041 38.4H32.1961V25.2L21.2041 38.4Z" fill="white"/>
+<circle id="Decentraland (MANA)_10" cx="32.1958" cy="15.6" r="6" fill="#FFC95B"/>
+<circle id="Decentraland (MANA)_11" cx="17.0039" cy="9" r="3" fill="#FFC95B"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_562_771" x1="24" y1="-9.9408" x2="-9.9408" y2="24" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF2D55"/>
+<stop offset="1" stop-color="#FFBC5B"/>
+</linearGradient>
+<linearGradient id="paint1_linear_562_771" x1="16.9988" y1="15.6" x2="16.9988" y2="33.6" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A524B3"/>
+<stop offset="1" stop-color="#FF2D55"/>
+</linearGradient>
+<linearGradient id="paint2_linear_562_771" x1="32.1921" y1="25.2" x2="32.1921" y2="38.4" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A524B3"/>
+<stop offset="1" stop-color="#FF2D55"/>
+</linearGradient>
+</defs>
+</svg>
