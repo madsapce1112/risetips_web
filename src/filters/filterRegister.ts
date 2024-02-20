@@ -107,8 +107,6 @@ export const handlePassword = (passWord: string | null): string | null => {
 }
 
 export const handleCpf = (cpf: string | null): string | null => {
-  // const cpfRegex = /^\d{3}\.\d{3}\.\d{3}-\d{2}$/
-
   if (cpf) {
     if (isValidCPF(cpf)) {
       return cpf
