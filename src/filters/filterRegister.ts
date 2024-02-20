@@ -80,7 +80,7 @@ export const handleTelephone = (phoneNumber: string | null): string | null => {
 
 export const handlePassword = (passWord: string | null): string | null => {
   const minLength = 7
-  const specialChars = /[!@#$%^&*()_+{}\[\]:;<>,.?~\\/-]/
+  const specialChars = `/[!@#$%^&*()_+{}\[\]:;<>,.?~\\/-]/`
   const uppercaseChars = /[A-Z]/
 
   if (passWord) {
