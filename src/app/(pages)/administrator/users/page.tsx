@@ -1,5 +1,4 @@
 import { UsersHeader, UsersFilter, UsersContent } from '@/components/administrator'
-
 const UsersPage = () => {
   return (
     <>
